@@ -1,4 +1,4 @@
-redis
+redis:
   host: 10.0.10.234
   port: 6379
   password: ePgBckhguJTk2KyaoFYH
