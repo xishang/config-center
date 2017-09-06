@@ -1,5 +1,5 @@
 redis:
-  host: 10.0.10.234
+  host: localhost
   port: 6379
   password: ePgBckhguJTk2KyaoFYH
   database: 1
