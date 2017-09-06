@@ -1,0 +1,4 @@
+redis.host:10.0.10.234
+redis.port:6379
+redis.password:ePgBckhguJTk2KyaoFYH
+redis.database:1
